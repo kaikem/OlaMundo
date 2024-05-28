@@ -4,3 +4,6 @@
  Repositório criado para praticar a criação.
 
  Essa linha eu adicionei diretamente no site do GitHUb
+
+ Testando **NEGRITO**
+ Testando *ITÁLICO*
